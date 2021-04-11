@@ -94,4 +94,4 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 Now submit the pull request.
 
 
-Congratulations! Sit and relax, you've made your contribution to the Alumni-Connect project.
+Congratulations! Sit and relax, you've made your contribution to AI-Kickstart.
